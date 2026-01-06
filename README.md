@@ -11,14 +11,7 @@ El problema a resolver consiste en encontrar la máxima cantidad de rectángulos
 
 ## 🚀 Cómo Empezar
 
-### Opción 1: Solución en TypeScript
-```bash
-cd typescript
-npm install
-npm start
-```
-
-### Opción 2: Solución en Python
+### Solución en Python
 ```bash
 cd python
 python3 main.py
