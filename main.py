@@ -31,7 +31,10 @@ def calculate_panels(
         # Todos los puntos en donde habría un panel seǵun su tamaño
         for split in split_points:
             for pw1, ph1 in orientations:
-                for pw2, ph2 in orientations:
+                for (
+                    pw2,
+                    ph2,
+                ) in orientations:  # Es necesario hacer este nivel de nesteo?
                     count = fit(static_dim, split, pw1, ph1) + fit(
                         static_dim, dim_to_split - split, pw2, ph2
                     )

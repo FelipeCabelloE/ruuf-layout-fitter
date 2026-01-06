@@ -1,5 +1,6 @@
 # Tarea Dev Junior - Ruuf
 
+Solución Felipe Cabello
 ## 🎯 Objetivo
 
 El objetivo de este ejercicio es poder entender tus habilidades como programador/a, la forma en que planteas un problema, cómo los resuelves y finalmente cómo comunicas tu forma de razonar y resultados.
@@ -36,27 +37,13 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 Deja acá el link a tu video explicando tu solución con tus palabras
 
----
-
-## 💰 Bonus (Opcional)
-
-Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
-
-### Bonus Implementado
-*[Indica cuál bonus implementaste: Opción 1 (techo triangular) o Opción 2 (rectángulos superpuestos)]*
-
-
-
-
-### Explicación del Bonus
-*[Explica cómo adaptaste tu algoritmo para resolver el bonus]*
-
-
-
+https://drive.proton.me/urls/MJDTP52P5W#QwhO2N7nPtfv
 
 ---
+
 
 ## 🤔 Supuestos y Decisiones
 
-*[Si tuviste que tomar algún supuesto o decisión de diseño, explícalo aquí]*
+Para la solución asumí que los techos serían rectangulares o cuadrados y que las únicas rotaciones posibles son en 90°.
 
+Consideré usar también algoritmos recursivos de gillotina, basado en física y grillas. Por simplicidad decidí dejarlo como pasos futuros de perfeccionamiento del algoritmo.
